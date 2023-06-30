@@ -1,0 +1,9 @@
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\bin\Debug\TEA STALL.exe.config
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\bin\Debug\TEA STALL.exe
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\bin\Debug\TEA STALL.pdb
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\obj\Debug\TEA STALL.csprojResolveAssemblyReference.cache
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\obj\Debug\TEA_STALL.Form1.resources
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\obj\Debug\TEA_STALL.Properties.Resources.resources
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\obj\Debug\TEA STALL.csproj.GenerateResource.Cache
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\obj\Debug\TEA STALL.exe
+c:\users\kanmani\documents\visual studio 2012\Projects\TEA STALL\TEA STALL\obj\Debug\TEA STALL.pdb
